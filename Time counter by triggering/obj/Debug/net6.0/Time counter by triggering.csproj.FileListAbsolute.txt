@@ -1,0 +1,15 @@
+C:\Users\arturs\Desktop\CODELEX\Interesting codes\Time counter by triggering\obj\Debug\net6.0\Time counter by triggering.csproj.AssemblyReference.cache
+C:\Users\arturs\Desktop\CODELEX\Interesting codes\Time counter by triggering\obj\Debug\net6.0\Time counter by triggering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arturs\Desktop\CODELEX\Interesting codes\Time counter by triggering\obj\Debug\net6.0\Time counter by triggering.AssemblyInfoInputs.cache
+C:\Users\arturs\Desktop\CODELEX\Interesting codes\Time counter by triggering\obj\Debug\net6.0\Time counter by triggering.AssemblyInfo.cs
+C:\Users\arturs\Desktop\CODELEX\Interesting codes\Time counter by triggering\obj\Debug\net6.0\Time counter by triggering.csproj.CoreCompileInputs.cache
+C:\Users\arturs\Desktop\CODELEX\Interesting codes\Time counter by triggering\bin\Debug\net6.0\Time counter by triggering.exe
+C:\Users\arturs\Desktop\CODELEX\Interesting codes\Time counter by triggering\bin\Debug\net6.0\Time counter by triggering.deps.json
+C:\Users\arturs\Desktop\CODELEX\Interesting codes\Time counter by triggering\bin\Debug\net6.0\Time counter by triggering.runtimeconfig.json
+C:\Users\arturs\Desktop\CODELEX\Interesting codes\Time counter by triggering\bin\Debug\net6.0\Time counter by triggering.dll
+C:\Users\arturs\Desktop\CODELEX\Interesting codes\Time counter by triggering\bin\Debug\net6.0\Time counter by triggering.pdb
+C:\Users\arturs\Desktop\CODELEX\Interesting codes\Time counter by triggering\obj\Debug\net6.0\Time counter by triggering.dll
+C:\Users\arturs\Desktop\CODELEX\Interesting codes\Time counter by triggering\obj\Debug\net6.0\refint\Time counter by triggering.dll
+C:\Users\arturs\Desktop\CODELEX\Interesting codes\Time counter by triggering\obj\Debug\net6.0\Time counter by triggering.pdb
+C:\Users\arturs\Desktop\CODELEX\Interesting codes\Time counter by triggering\obj\Debug\net6.0\Time counter by triggering.genruntimeconfig.cache
+C:\Users\arturs\Desktop\CODELEX\Interesting codes\Time counter by triggering\obj\Debug\net6.0\ref\Time counter by triggering.dll
